@@ -1,5 +1,7 @@
 # 1st-code
 to print the max of an array
+
+
 #include <stdio.h>
 
 int main() {
